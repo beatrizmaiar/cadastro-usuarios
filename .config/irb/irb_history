@@ -1,0 +1,43 @@
+link = Link.create(url: "https://www.mylink.com/with-a-large-url", slug: "shorty")
+link.short
+link
+link.short
+quit
+link
+link = Link.create(url: "https://www.mylink.com/with-a-large-url", slug: "shorty")
+link
+Link
+link.short
+quit
+link = Link.create(url: "https://www.meulink.com/with-a-large-url", slug: "curto")
+link
+link.short
+quit
+Link.shorten("www.meusite.com/asdasadsa")
+Link.shorten("https://www.mylink.com/with-a-large-url", "shorty")
+Link.shorten("https://www.mylink.com/with-a-large-url", "shorty")
+Link.shorten("https://www.mylink.com/with-a-large-url", "shorty")
+quit
+Link.shorten("https://www.mylink.com/with-a-large-url", "shorty")
+quit
+Link
+rails s
+quit
+Link.shorten("https://www.mylink.com/with-a-large-url", "shorty")
+Link.shorten("https://www.mylink.com/with-a-large-url", "shorty")
+quit
+Link.shorten("meusitezin.com")
+Link.shorten("https://www.mylink.com/with-a-large-url")
+Link.shorten("https://www.mylink.com/with-a-large-url")
+Link.shorten("https://www.google.com")
+quit
+Link.shorten("https://www.google.com")
+Link.shorten("https://www.foda.com/foda")
+quit
+Link.shorten("https://www.foda.com/foda")
+quit
+Link.shorten("https://www.foda.com/foda")
+Link.shorten("https://www.op.gg/champions/vayne/build")
+quit
+Link.shorten("https://www.mylink.com/another-large-url")
+Link.shorten("https://www.foda.com/foda")
